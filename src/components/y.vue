@@ -40,7 +40,7 @@ body{
     background-position: left 0px top 50%;
   }
   50%{
-    background-position: left 1500px top 50%;
+    background-position: left 90px top 50%;
   }
   100%{
     background-position: left 0px top 50%;

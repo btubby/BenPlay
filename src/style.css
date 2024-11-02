@@ -12,6 +12,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: hsla(230, 40%, 50%, 1);
+  background-color: white;
 }
 
 
@@ -48,6 +49,7 @@ html, body {
     font-size: 0;
     height: 100%;
     background-color: hsla(230, 40%, 50%, 1);
+    background-color: white;
     }
     *, *:before, *:after {
       margin: 0;
